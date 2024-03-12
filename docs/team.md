@@ -78,10 +78,22 @@ A Codaqui é uma escola de programação sem fins lucrativos que apoia jovens qu
 
     ---
 
-    <img src="https://user-images.githubusercontent.com/11020807/219097368-29e04759-22a7-4152-9aee-7154b3687edb.jpg" alt="Foto de Nati" width="150" height="150"/>
+    <img src="[https://user-images.githubusercontent.com/11020807/219097368-29e04759-22a7-4152-9aee-7154b3687edb.jpg](https://avatars.githubusercontent.com/u/85834483?v=4)" alt="Foto de Nati" width="150" height="150"/>
 
     <small>Voluntária</small>
 
     [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/nreinoso/)
 
+    __Luiz Amadeu__
+
+    ---
+    
+    <img src="https://avatars.githubusercontent.com/u/85834483?v=4" alt="Foto de Luiz Felipe Warmling Amadeu" width="150" height="150"/>
+    
+    <small>Voluntário | CoffeeDev</small>
+
+    [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/Amad3eu/) [:simple-github:](https://github.com/Amad3eu)
+
+-   
+ 
 </div>
